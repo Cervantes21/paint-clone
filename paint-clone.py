@@ -1,8 +1,10 @@
+import os
+os.environ['KIVY_GL_BACKEND'] = 'gl'
 from kivy.app import App
 from kivy.uix.widget import Widget
 from kivy.graphics import Line, Color
 from kivy.core.window import Window
- 
+
 class Dibujador(Widget):
     Window.clearcolor = (1,1,1,1)
  
@@ -19,4 +21,3 @@ class MiApp(App):
         return Dibujador()
 if __name__ == "__main__":
     MiApp().run()
-
