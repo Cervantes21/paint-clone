@@ -1,6 +1,19 @@
 # paint-clone
 > An App for draw in your shell
 
+Follow the steps for install.
+
+Step 1: Copy de URL
+
+Step 2: Open new Terminal
+
+Step 3: clone repository
+
+step 4: Created a virtual enviroment 
+
+step 5: Install requirements.txt
+
+step 6: Execute python3 paint-clone.py or paint-v02.py
 
 ![first-test](https://pbs.twimg.com/media/FmeH6jAWIAAZNsB?format=jpg&name=large)
 
