@@ -9,9 +9,23 @@ Step 2: Open new Terminal
 
 Step 3: clone repository
 
-step 4: Created a virtual enviroment 
+step 4: Created a virtual enviroment
+
+```
+python -m venv kivy_venv
+``` 
+
+**OR IN WINDOS:**
+
+```
+python -m virtualenv kivy_env
+```
 
 step 5: Install requirements.txt
+
+```
+pip install -r requirements.txt
+```
 
 step 6: Execute python3 paint-clone.py or paint-v02.py
 
